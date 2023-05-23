@@ -16,6 +16,7 @@ Below are a few screenshots demonstrating the interface and functionality of Pla
 
 **Project Overview:**
 
+![image](https://github.com/Dan0xE/Playground/assets/23116945/37b83471-6e6b-4d43-9325-4446f7fea843)
 
 ---
 
